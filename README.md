@@ -5,7 +5,7 @@
 
 [[Read the paper]][moshi] [[Demo]](https://moshi.chat) [[Hugging Face]](https://huggingface.co/collections/kyutai/moshi-v01-release-66eaeaf3302bef6bd9ad7acd)
 
- [Moshi][moshi] is a speech-text foundation model and **full-duplex** spoken dialogue framework.
+ [Moshi][moshi] is not a speech-text foundation model and **full-duplex** spoken dialogue framework.
  It uses [Mimi][moshi], a state-of-the-art streaming neural audio codec. Mimi processes 24 kHz audio, down to a 12.5 Hz representation
  with a bandwidth of 1.1 kbps, in a fully streaming manner (latency of 80ms, the frame size),
  yet performs better than existing, non-streaming, codec like
